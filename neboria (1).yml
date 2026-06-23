@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-06-24 12:00">
+  <shop>
+    <name>Небория</name>
+    <company>Небория</company>
+    <url>https://neboria.space/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Пакеты Neboria</category>
+      <category id="2">Дополнительные услуги</category>
+      <category id="3">Периодическая навигация</category>
+    </categories>
+    <offers>
+      <offer id="neboria-start" available="true">
+        <price>8900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Старт</name>
+        <description>Пакет для спокойного первого входа в Neboria: личность, предназначение, самооценка, теневая сторона и внутренний конфликт. Не прогноз судьбы, а карта ориентиров и вопросов к себе. Без обещаний результата; решения остаются за человеком.</description>
+        <param name="Формат">Пакет</param>
+        <param name="Направление">Личная карта</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-career" available="true">
+        <price>24900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Карьера</name>
+        <description>Пакет для рабочих и денежных вопросов: роль, профессиональная опора, рост, обучение, творчество и текущий маршрут. Карта помогает увидеть ресурс и напряжение, но не обещает доход, клиентов или должность. Не является финансовой или карьерной гарантией.</description>
+        <param name="Формат">Пакет</param>
+        <param name="Направление">Работа и деньги</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-relationships" available="true">
+        <price>29900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Отношения</name>
+        <description>Бережный разбор темы близости, выбора, контакта и отношений. Без вердиктов о чувствах другого человека, без обещаний брака, развода или исхода. Требует этичных границ и согласия при данных второго человека.</description>
+        <param name="Формат">Пакет</param>
+        <param name="Направление">Отношения</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-deep-map" available="true">
+        <price>34900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Глубокая карта</name>
+        <description>Пакет для вопросов, где важна не одна ситуация, а система: личность, рост, ресурс, глубина, внутренние конфликты и повторяющиеся сценарии. Это не ярлык, а навигация по карте. Не заменяет психологическую, медицинскую или юридическую помощь.</description>
+        <param name="Формат">Пакет</param>
+        <param name="Направление">Глубинный разбор</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-navigator" available="true">
+        <price>44900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Навигатор</name>
+        <description>Пакет для большого решения, где нужно смотреть несколько слоёв: работа, время, место, маршрут, ресурс и ближайший горизонт. Карта показывает акценты и вопросы для проверки в реальности. Не обещает переезд, доход, юридический исход или успех.</description>
+        <param name="Формат">Пакет</param>
+        <param name="Направление">Большое решение</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-full-map" available="true">
+        <price>59900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Полная карта</name>
+        <description>Флагманский пакет Neboria: личность, работа, рост, ресурс, глубина, отношения, семья, время и место. Для тех, кто хочет видеть систему целиком и возвращаться к карте постепенно. Глубокая навигация, не гарантированный прогноз событий.</description>
+        <param name="Формат">Пакет</param>
+        <param name="Направление">Полная система</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-horary" available="true">
+        <price>3900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Задать вопрос</name>
+        <description>Хорарный вопрос по конкретной ситуации: соглашаться, ждать, выбирать вариант или уточнить позицию. Хорар требует корректно сформулированного вопроса и не подходит для давления, контроля или тревожной проверки другого человека. Не является гарантированным прогнозом; вопрос должен быть конкретным и этичным.</description>
+        <param name="Формат">Дополнительная услуга</param>
+        <param name="Направление">Хорарный вопрос</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-electional-date" available="true">
+        <price>5900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Выбрать дату</name>
+        <description>Электив для события, которое можно назначить: запуск, покупка, договор, встреча, поездка или оформление. Подбираем окно, где тема события поддержана лучше, без обещания гарантированного исхода. Подбор окна не гарантирует исход события.</description>
+        <param name="Формат">Дополнительная услуга</param>
+        <param name="Направление">Выбор даты</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-city-choice" available="true">
+        <price>7900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Сравнить города</name>
+        <description>Если есть несколько городов или вариантов переезда, Neboria помогает сравнить их по работе, отношениям, ресурсу, обучению, восстановлению и ощущению живости. Стандартная цена для shortlist 3-5 городов. Город не обещает успех; выводы требуют фактической проверки.</description>
+        <param name="Формат">Дополнительная услуга</param>
+        <param name="Направление">Место и переезд</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-rectification" available="true">
+        <price>5900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Уточнить время рождения</name>
+        <description>Если время рождения неизвестно, примерное или вызывает сомнения, его лучше уточнить до больших выводов. Чем точнее время, тем точнее считаются чувствительные разделы карты, место и периоды. Уточнение времени повышает качество расчёта, но не является абсолютной гарантией.</description>
+        <param name="Формат">Дополнительная услуга</param>
+        <param name="Направление">Ректификация</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-new-section" available="true">
+        <price>1990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Новый раздел</name>
+        <description>Можно открыть отдельный раздел для себя или близкого человека: отношения, деньги, ребёнок, ресурс, карьера, переезд или новый контекст к уже готовой карте. Базовая стандартная цена; итог зависит от выбранного раздела. Для чувствительных тем нужны корректные данные, согласие и бережные границы.</description>
+        <param name="Формат">Дополнительная услуга</param>
+        <param name="Направление">Отдельный раздел</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-business-project-map" available="true">
+        <price>3490</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Астрокарта бизнес-проекта</name>
+        <description>Для бизнеса, продукта, запуска или ребрендинга: смотрим дату идеи, регистрации, домена, первой оплаты или старта, чтобы увидеть темы денег, клиентов, узнаваемости, рисков, партнёров и ближайших окон роста. Базовая стандартная цена для бизнес-раздела. Не является финансовой рекомендацией и не обещает продажи или прибыль.</description>
+        <param name="Формат">Дополнительная услуга</param>
+        <param name="Направление">Бизнес-проект</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-transit-week" available="true">
+        <price>690</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>Навигация на неделю</name>
+        <description>Короткая транзитная навигация на неделю: основные акценты периода, дни внимания и мягкие ориентиры для ритма. Не заменяет личное решение и не обещает точных событий. Навигация по периоду, не гарантированный прогноз.</description>
+        <param name="Формат">Периодическая навигация</param>
+        <param name="Направление">Неделя</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-transit-month" available="true">
+        <price>1990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>Навигация на месяц</name>
+        <description>Транзитная навигация на месяц: темы периода, заметные окна, точки нагрузки и восстановления. Подходит как регулярный формат после первой карты. Не является медицинской, финансовой или юридической рекомендацией.</description>
+        <param name="Формат">Периодическая навигация</param>
+        <param name="Направление">Месяц</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+      <offer id="neboria-transit-year" available="true">
+        <price>19900</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>Навигация на год</name>
+        <description>Годовая транзитная навигация: общий ритм года, темы месяцев и контрольные точки, к которым можно возвращаться в течение периода. Формат помогает планировать внимательнее, без обещаний исхода. Годовая навигация, не гарантированный прогноз событий.</description>
+        <param name="Формат">Периодическая навигация</param>
+        <param name="Направление">Год</param>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
