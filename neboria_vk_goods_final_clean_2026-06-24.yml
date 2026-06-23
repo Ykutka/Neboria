@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-24 02:20">
+  <shop>
+    <name>Neboria</name>
+    <company>Neboria</company>
+    <url>https://neboria.space</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Пакеты Neboria</category>
+      <category id="2">Дополнительные услуги</category>
+      <category id="3">Периодическая навигация</category>
+    </categories>
+    <offers>
+      <offer id="101" available="true">
+        <name>Старт</name>
+        <categoryId>1</categoryId>
+        <price>8900</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Первичный пакет Neboria: личность, базовые темы карты и спокойная навигация без обещаний результата.</description>
+        <url>https://neboria.space/#packages</url>
+      </offer>
+      <offer id="102" available="true">
+        <name>Карьера</name>
+        <categoryId>1</categoryId>
+        <price>24900</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Разбор рабочих вопросов, роли, денег, роста, обучения и текущего маршрута без финансовых гарантий.</description>
+        <url>https://neboria.space/#packages</url>
+      </offer>
+      <offer id="103" available="true">
+        <name>Отношения</name>
+        <categoryId>1</categoryId>
+        <price>29900</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Бережный разбор близости, выбора, контакта, семьи и повторяющихся сценариев без вердиктов о другом человеке.</description>
+        <url>https://neboria.space/#packages</url>
+      </offer>
+      <offer id="104" available="true">
+        <name>Глубокая карта</name>
+        <categoryId>1</categoryId>
+        <price>34900</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Системный пакет про личность, рост, ресурс, глубинные конфликты и повторяющиеся паттерны.</description>
+        <url>https://neboria.space/#packages</url>
+      </offer>
+      <offer id="105" available="true">
+        <name>Навигатор</name>
+        <categoryId>1</categoryId>
+        <price>44900</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Пакет для большого решения по работе, месту, времени или маршруту без обещаний исхода.</description>
+        <url>https://neboria.space/#packages</url>
+      </offer>
+      <offer id="106" available="true">
+        <name>Полная карта</name>
+        <categoryId>1</categoryId>
+        <price>59900</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Флагманский пакет Neboria: все 9 направлений и 35 разделов для постепенной работы с картой.</description>
+        <url>https://neboria.space/#packages</url>
+      </offer>
+      <offer id="201" available="true">
+        <name>Задать вопрос</name>
+        <categoryId>2</categoryId>
+        <price>3900</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Хорарный вопрос по конкретной ситуации и ближайшему разумному шагу без гарантированного прогноза.</description>
+        <url>https://neboria.space/horary</url>
+      </offer>
+      <offer id="202" available="true">
+        <name>Выбрать дату</name>
+        <categoryId>2</categoryId>
+        <price>5900</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Элективный подбор окна для события, которое можно назначить заранее, без обещания результата.</description>
+        <url>https://neboria.space/elective-date</url>
+      </offer>
+      <offer id="203" available="true">
+        <name>Сравнить города</name>
+        <categoryId>2</categoryId>
+        <price>7900</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Сравнение нескольких городов или вариантов переезда по работе, отношениям, ресурсу и ритму жизни.</description>
+        <url>https://neboria.space/city-choice</url>
+      </offer>
+      <offer id="204" available="true">
+        <name>Уточнить время рождения</name>
+        <categoryId>2</categoryId>
+        <price>5900</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Ректификация для случаев, когда время рождения неизвестно, примерное или вызывает сомнения.</description>
+        <url>https://neboria.space/rectification</url>
+      </offer>
+      <offer id="205" available="true">
+        <name>Новый раздел</name>
+        <categoryId>2</categoryId>
+        <price>1990</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Открытие отдельного раздела или нового контекста к уже готовой карте. Базовая цена.</description>
+        <url>https://neboria.space/new-section</url>
+      </offer>
+      <offer id="206" available="true">
+        <name>Астрокарта бизнес-проекта</name>
+        <categoryId>2</categoryId>
+        <price>3490</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Карта бизнеса, продукта, запуска или ребрендинга без финансовых обещаний и гарантий продаж.</description>
+        <url>https://neboria.space/business-project-map</url>
+      </offer>
+      <offer id="301" available="true">
+        <name>Навигация на неделю</name>
+        <categoryId>3</categoryId>
+        <price>690</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Короткая транзитная навигация на неделю: фокус, дни внимания и мягкие ориентиры ритма.</description>
+        <url>https://neboria.space/transit-navigation</url>
+      </offer>
+      <offer id="302" available="true">
+        <name>Навигация на месяц</name>
+        <categoryId>3</categoryId>
+        <price>1990</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Транзитная навигация на месяц: темы периода, заметные окна и ориентиры для бережного движения.</description>
+        <url>https://neboria.space/transit-navigation</url>
+      </offer>
+      <offer id="303" available="true">
+        <name>Навигация на год</name>
+        <categoryId>3</categoryId>
+        <price>19900</price>
+        <currencyId>RUB</currencyId>
+        <picture>https://static.tildacdn.com/tild6530-3337-4434-b430-303762643231/07_desktop_group_.png</picture>
+        <description>Годовой атлас: общий ритм, месяцы и контрольные точки без гарантированного прогноза событий.</description>
+        <url>https://neboria.space/transit-navigation</url>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
